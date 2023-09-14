@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+.web_title{
+    font-weight: normal;
+    font-size: 3.7rem;
+    text-align: center;
+    background-color: #dcf4df;
+    margin-bottom: 2rem;
+}
+
+body{
+    background-color: #bcf2c4;
+}
