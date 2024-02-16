@@ -1,0 +1,20 @@
+.App{
+    margin: 10px;
+}
+.HeaderDiv form{
+    display: flex;
+    flex-direction: column;
+}
+.HeaderDiv{
+    border: 1px solid lightgrey;
+    padding: 10px;
+    border-radius: 10px;
+}
+.imageList{
+    columns: 300px 4;
+    column-gap: 10px;
+}
+.imageItem{
+    width: 100%;
+    margin-bottom: 10px;
+} 
